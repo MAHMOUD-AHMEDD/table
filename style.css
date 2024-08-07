@@ -1,0 +1,52 @@
+.page {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+}
+.page .first_section {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.page .first_section h1 {
+}
+.page .first_section .badge {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+.page .second_section {
+}
+.page .second_section .first {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.page .second_section .first .searchh {
+}
+.page .second_section .first .searchh input {
+}
+.page .second_section .first .searchh label {
+}
+.comm {
+  display: flex;
+}
+.comm h5 {
+}
+.comm h5 div {
+}
+table {
+  width: 1100px;
+}
+table img {
+  width: 60px;
+}
+.inf {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
